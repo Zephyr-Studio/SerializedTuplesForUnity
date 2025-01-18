@@ -1,0 +1,18 @@
+{
+    "name": "SerializedTuples.Editor",
+    "rootNamespace": "SerializedTuples",
+    "references": [
+        "GUID:21bae65976e34778a30f31cd92284aeb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
