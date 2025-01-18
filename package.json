@@ -1,0 +1,11 @@
+{
+  "name": "com.hokageminato.serializedtuples",
+  "version": "1.0.0",
+  "displayName": "Serialized Tuples",
+  "unity": "2019.1",
+  "description": "Serialized Tuples for unity",
+  "license": "MIT",
+  "author": {
+    "name": "Ronak Machchhar"
+  }
+}
